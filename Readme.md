@@ -1,4 +1,4 @@
-# Blink Blue Pill with makefile
+# Blinking Blue Pill-STM32F103C8 
 ## Commands
 
 - `all`: app.bin : to create binary output file .bin and and executable and linkable file .elf
